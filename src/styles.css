@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100vh;
+  place-items: center;
+  display: grid;
+  line-height: 2;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
